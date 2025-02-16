@@ -1,2 +1,0 @@
-# Chainescape-Lite
-Treehacks proj
